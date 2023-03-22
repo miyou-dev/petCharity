@@ -1,4 +1,5 @@
 # 本科毕业设计
+用户端使用Flutter开发 管理端使用SwiftUI开发
 
 ### 💻 开发软件
 
@@ -23,8 +24,12 @@
 [![iOS 16.3.1](https://img.shields.io/badge/iOS%2016.3.1-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com.cn/ios/ios-16)
 [![Android 13](https://img.shields.io/badge/Android%2013-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-13)
 
+### 项目链接 🔗
+[用户端](../petCharityFlutter)
+[管理端](../petCharitySwiftUI)
+[后端](../petCharityDjango)
+
 ## 效果展示
-用户端使用Flutter开发 管理端使用SwiftUI开发
 ### 用户端(白天模式)
 
 | IOS                                                                                 | Android                                                                                 |
